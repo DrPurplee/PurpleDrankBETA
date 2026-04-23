@@ -6,7 +6,7 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-	Name            = "✡️ Tel-Aviv Client",
+	Name            = "✡️ Tel-Aviv Client ~ By Cyril Hanouna",
 	LoadingTitle    = "Tel-Aviv [CLIENT]",
 	LoadingSubtitle = "•  By FocusOnTop",
 	Theme = {
